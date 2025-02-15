@@ -3,3 +3,10 @@
 #### What do you think about it?
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` java
+String rudra = new String("Rudra");
+```
+``` c++
+std::string rudra{"Rudra"};
+```
